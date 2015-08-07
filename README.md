@@ -36,8 +36,7 @@ confirm any assumptions you make.
 ## Installation
 
 Installation is straight forward. Simply open the CLI utility of choice and run 
-the following command. Note that due to the specification the name of the command
-'bc' was chosen, and may cause a naming conflict with existing programs.
+the following command. 
 
 ```
 pip3 install bc1
@@ -49,9 +48,12 @@ On Windows, from GitBash, you can run the following.
 /c/Python34/Scripts/pip3.exe install bc1
 ```
 
+Note that the specification calls for the name of the command to be 'bc', which may cause 
+a naming conflict with existing programs.
+
 ## Example Usages
 
-Or to get the repl do the following.
+To get the repl do the following.
 
 ```
 LOSX-JPERCENT:bc jpercentpip3 install bc1
